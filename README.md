@@ -39,11 +39,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ```
 
 # Interested in GroupDocs free consulting project?
-[If you are also interested in a free consulting project by GroupDocs team then please view details on this page](https://github.com/groupdocs-free-consulting/)
+[If you are also interested in a free consulting project by GroupDocs team then please view details on this page](https://forum.groupdocs.com/c/free-consulting/37)
 
 If you have any questions about GroupDocs Cloud APIs, please feel free to post your query in [GroupDocs Cloud file format APIs Forums](https://forum.groupdocs.cloud/).
 
 Also, you can keep in touch with the latest developments in file format APIs offered by [GroupDocs Cloud at our Blog](https://blog.groupdocs.cloud/).
 
 # This free consulting project is based on the following issue:
-[I want to create/build an api to parse ppt and pptx](https://github.com/groupdocs-free-consulting/projects/issues/1)
+I want to create/build an api to parse ppt and pptx: https://github.com/groupdocs-free-consulting/projects/issues/1
