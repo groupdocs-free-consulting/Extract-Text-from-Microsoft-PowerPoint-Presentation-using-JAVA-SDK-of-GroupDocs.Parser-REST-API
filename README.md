@@ -46,4 +46,4 @@ If you have any questions about GroupDocs Cloud APIs, please feel free to post y
 Also, you can keep in touch with the latest developments in file format APIs offered by [GroupDocs Cloud at our Blog](https://blog.groupdocs.cloud/).
 
 # This free consulting project is based on the following issue:
-I want to create/build an api to parse ppt and pptx: https://github.com/groupdocs-free-consulting/projects/issues/1
+I want to create/build an api to parse ppt and pptx: github.com/groupdocs-free-consulting/projects/issues/1
